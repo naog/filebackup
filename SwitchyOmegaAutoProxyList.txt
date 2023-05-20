@@ -14,5 +14,6 @@
 *.primexbt.com
 *.pionex.com
 *.pionex.cc
+*.exness.com
 
 *.bulianglin.com
