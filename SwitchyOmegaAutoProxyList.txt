@@ -1,2 +1,7 @@
+[SwitchyOmega Conditions]
+
 *.binance.com +7890
 *.bnbstatic.com +7890
+
+@with result
+* +direct
