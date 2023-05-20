@@ -1,4 +1,2 @@
-*.bnbstatic.com
-*.binance.com
-*.bybit.com
-*.bybit-aws.com
+*.binance.com +7890
+*.bnbstatic.com +7890
