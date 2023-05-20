@@ -1,8 +1,18 @@
 [SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/5/21
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.binance.com
 *.bnbstatic.com
-*okx.com
+*.okx.com
+*.bycbe.com
+*.byapis.com
+*.bybit.com
+*.kraken.com
+*.bitfinex.com
+*.bitget.com
+*.mexc.com
+*.gate.io
+*.primexbt.com
+*.pionex.com
+*.pionex.cc
+
+*.bulianglin.com
