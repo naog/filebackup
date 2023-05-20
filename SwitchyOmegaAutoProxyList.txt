@@ -1,0 +1,4 @@
+*.bnbstatic.com
+*.binance.com
+*.bybit.com
+*.bybit-aws.com
