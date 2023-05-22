@@ -1,7 +1,17 @@
 [SwitchyOmega Conditions]
 
 *.binance.com
+*.binance.cloud
+*.binance.me
+*.binancezh.info
+*.binancezh.jp
+*.binancezh.io
+*.binancezh.top
 *.bnbstatic.com
+*.bntrace.com
+*.mokexapp.cloud
+*.saasexch.com
+*.saasexch.cc
 *.okx.com
 *.bycbe.com
 *.byapis.com
@@ -15,5 +25,10 @@
 *.pionex.com
 *.pionex.cc
 *.exness.com
+
+
+*.coinglass.com
+*.tradingview.com
+*.coinzillatag.com
 
 *.bulianglin.com
