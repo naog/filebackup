@@ -30,5 +30,5 @@
 *.coinglass.com
 *.tradingview.com
 *.coinzillatag.com
-
+*.googletagmanager.com
 *.bulianglin.com
